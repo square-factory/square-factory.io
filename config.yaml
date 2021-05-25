@@ -1,0 +1,107 @@
+baseurl: 'https://square-factory.io/'
+languageCode: fr-FR
+title: Square-Factory
+theme: orbitor-hugo
+summaryLength: '10'
+paginate: 4
+googleAnalytics: ''
+disqusShortname: ''
+outputs:
+  home:
+    - HTML
+    - JSON
+params:
+  plugins:
+    css:
+      - link: plugins/bootstrap/css/bootstrap.min.css
+      - link: plugins/themify/css/themify-icons.css
+      - link: plugins/slick/slick.min.css
+      - link: >-
+          https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&family=Rubik&display=swap
+    js:
+      - link: plugins/jQuery/jquery.min.js
+      - link: plugins/bootstrap/js/bootstrap.min.js
+      - link: plugins/slick/slick.min.js
+      - link: plugins/search/fuse.min.js
+      - link: plugins/search/mark.js
+      - link: plugins/search/search.js
+      - link: plugins/google-map/map.js
+  logo: images/logo.png
+  logo_white: images/logo-w.png
+  logo_footer: images/logo-w.png
+  description: TOCHANGE-DESCRIPTION META
+  author: Square-Factory
+  mobile: TOCHANGE-+33 1234567
+  email: TOCHANGE-contact@square-factory.io
+  location: TOCHANGE-Paris
+  footer_content: >-
+    Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos
+    obcaecati tenetur veritatis eveniet distinctio possimus.
+  copyright: >-
+    Site réalisé par [Square-Factory](https://square-factory.io/) &copy; 2021
+  preloader:
+    enable: true
+    preloader: images/logo.png
+  navigation_button:
+    enable: true
+    label: Contactez-nous
+    link: contact
+  cookies:
+    enable: false
+    expire_days: 2
+  social:
+    - icon: ti-facebook
+      link: '#'
+    - icon: ti-linkedin
+      link: '#'
+    # - icon: ti-github
+    #   link: '#'
+menu:
+  main:
+    - name: Accueil
+      url: /
+      weight: 10
+    - name: TOCHANGE
+      url: about
+      weight: 20
+    - name: TOCHANGE
+      url: blog
+      weight: 30
+    - name: TOCHANGE
+      url: portfolio
+      weight: 40
+    - weight: 50
+      name: TOCHANGE-MENU
+      hasChildren: true
+    - parent: TOCHANGE-MENU
+      name: PageTest2
+      url: pagetest2
+    - parent: TOCHANGE-MENU
+      name: PageTest
+      url: pagetest
+  company:
+    - name: TOCHANGE1
+      url: about
+      weight: 2
+    - name: TOCHANGE2
+      url: portfolio
+      weight: 3
+    - name: TOCHANGE3
+      url: service
+      weight: 4
+    - name: TOCHANGE4
+      url: blog
+      weight: 5
+    - name: TOCHANGE5
+      url: contact
+      weight: 6
+  support:
+    - name: TOCHANGE1
+      url: about
+      weight: 1
+    - name: TOCHANGE2
+      url: portfolio
+      weight: 2
+    - name: TOCHANGE3
+      url: service
+      weight: 3
