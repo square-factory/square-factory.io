@@ -2,10 +2,9 @@
   <div class="container-fluid">
     <a class="navbar-brand" href="{{ site.BaseURL }}">
       {{ if .IsHome }}
-      <img loading="lazy" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" class="img-fluid">
+      <span class="falogo"><i class="fad fa-vector-square"></i> <span class="fatitle">Factory</span></span>
       {{ else }}
-      <img loading="lazy" src="{{ site.Params.logo_white | absURL }}" alt="{{ site.Title }}" class="img-fluid hidden-logo">
-      <img loading="lazy" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" class="img-fluid mobile-logo">
+      <span class="falogo-dark"><i class="fad fa-vector-square"></i> <span class="fatitle">Factory</span></span>
       {{ end }}
     </a>
 

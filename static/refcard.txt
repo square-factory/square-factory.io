@@ -1,0 +1,98 @@
+DevOps
+Par
+Benjamin TOURNACHE
+Frédéric MARTIN
+Miguel MICHEE
+
+Vous avez des questions ?
+
+Rejoignez le channel Slack : 
+ #gsl_it_ops
+ou envoyez un mail à 
+benjamin.tournache@seloger.com 
+frederic.martin-ext@seloger.com
+miguel.michee@seloger.com
+
+
+
+
+DevOps est une combinaison de philosophies culturelles, de pratiques et d'outils qui améliore la capacité d'une entreprise à livrer des applications et des services à un rythme élevé. Il permet de faire évoluer et d’optimiser les produits plus rapidement que les entreprises utilisant des processus traditionnels de développement de logiciels et de gestion de l’infrastructure. Cette vitesse permet aux entreprises de mieux servir leurs clients et de gagner en compétitivité.
+Cette vitesse permet de délivrer de manière régulière des incréments à forte valeur ajoutée à nos utilisateurs.
+Modèle DevOps
+Dans un modèle DevOps, les équipes de développement et d'opérations ne sont plus isolées. Les ingénieurs qui la compose travaillent alors sur tout le cycle de vie d'une application, de la création à l’exploitation, en passant par les tests et le déploiement, et développent toute une gamme de compétences liées à différentes fonctions.
+Ces équipes utilisent des pratiques pour automatiser des processus qui étaient autrefois manuels et lents. Ces outils aident également les ingénieurs à accomplir de façon autonome des tâches (ex : le déploiement de code ou la mise en service d'infrastructure) qui nécessiteraient normalement l'aide d'autres équipes, ce qui augmente encore davantage la productivité de l’équipe d’ingénieurs.
+
+Fonctionnement
+
+Rapidité: Permet d'avancer plus rapidement pour accélérer le rythme des innovations pour les clients, améliorer la capacité d'adaptation au marché et gagner en efficacité et en croissance.
+Livraison fréquente: Permet d'augmenter le rythme et la fréquence des déploiements de façon à innover et à optimiser les produits plus rapidement.Fiabilité: Les pratiques comme l'intégration continue et la livraison continue nous assurent que chaque changement est fonctionnel et sûr. Les pratiques de monitoring et de logs nous aident à rester informés sur les performances en temps réel.
+Avantages
+Évolutivité: L'automatisation et la cohérence nous aident à gérer des systèmes complexes (ou changeants) de manière efficace et moins risquée.Collaboration améliorée: Les équipes de développement et d'opérations collaborent étroitement, partagent de nombreuses responsabilités et combinent leurs flux de travail. Le développeur doit s’intéresser à “comment mon code est exécuté” ; l’ops doit s’intéresser à “que fait le code ?”Sécurité: On peut adopter un modèle DevOps sans sacrifier la sécurité, en utilisant des politiques de conformité automatisées, des contrôles plus rigoureux et des techniques de gestion de la configuration.
+Avantages
+La transition vers DevOps implique un changement de culture et d'état d'esprit. Pour simplifier, le DevOps consiste à éliminer les obstacles entre deux équipes traditionnellement isolées l'une de l'autre : l'équipe de développement et l'équipe d'opérations.
+Avec DevOps, les deux équipes travaillent en collaboration pour optimiser la productivité des développeurs et la fiabilité des opérations. Elles ont à cœur de communiquer fréquemment, de gagner en efficacité et d’améliorer la qualité des services offerts aux clients.
+La philosophie culturelle DevOps 
+Les équipes de QA (Quality Assurance)  et de sécurité peuvent également s'intégrer étroitement aux équipes de développement et d’opérations. 
+Quelle que soit leur structure organisationnelle, les entreprises adoptant un modèle DevOps disposent d’équipes qui considèrent l’ensemble du cycle de développement et d'infrastructure comme faisant partie de leurs responsabilités.
+La philosophie culturelle DevOps 
+
+Intégration continue (”continuous integration” en anglais): Les développeurs intègrent régulièrement leurs modifications de code à un référentiel centralisé, suite à quoi des opérations de déploiement et de tests sont automatiquement menées.
+Livraison continue (”continuous delivery” en anglais): La livraison continue est la suite de l'intégration continue. Cela permet de déployer en production régulièrement, à chaque modification de codes qui a préalablement passé tous les tests lors de l'intégration.
+Microservices: Approche de conception qui consiste à diviser une application en un ensemble de petits services. Les microservices sont conçus autour de capacités métier ; chaque service est dédié à une seule fonction.
+Bonnes pratiques 
+Infrastructure as code: l'infrastructure et les serveurs peuvent être rapidement déployés à l'aide de modèles standardisés mis à jour, avec les derniers correctifs et les dernières versions, ou dupliqués de manière répétable.
+
+Surveillance et journalisation: En capturant, catégorisant et analysant les données et les logs générés par les applications et l'infrastructure, les organisations comprennent l'effet des modifications ou des mises à jour sur les utilisateurs, afin d'identifier les véritables causes de problèmes ou de changements imprévus.
+Bonnes pratiques 
+
+Cloud
+Par
+Benjamin TOURNACHE
+Frédéric MARTIN
+Miguel MICHEE
+
+Vous avez des questions ?
+
+Rejoignez le channel Slack : 
+ #gsl_it_ops
+ou envoyez un mail à 
+benjamin.tournache@seloger.com 
+frederic.martin-ext@seloger.com
+miguel.michee@seloger.com
+
+
+
+
+Le cloud computing est la mise à disposition de ressources informatiques à la demande, via Internet, avec une tarification en fonction de leur  utilisation. Au lieu d'acheter, de posséder et de gérer des serveurs et des centres de données physiques, il est possible d'accéder aux services technologiques, tels que la puissance de calcul, le stockage et les bases de données, d'un fournisseur cloud tel qu'Amazon Web Services (AWS).
+The Cloud
+Agilité - connectées au cloud, toutes les technologies innovantes sont à portée
+Elasticité - consommation en fonction du besoin, seules les ressources consommées sont facturées
+Maîtrise des coûts - transformation du CAPital en OPÉrationnelle (CAPEX/OPEX), pas de machines à acheter, seulement des cycles CPUs, modèle Pay-As-You-Go 
+Déploiements mondiaux rapide et régulier - des fournisseurs avec une présence mondiale permettent une bonne qualité de service partout dans le monde.
+Pourquoi faire du cloud ? 
+
+IaaS - Infrastructure As A Service, contient les éléments de base pour le cloud computing. Elle propose généralement un accès à des fonctionnalités réseau, des ordinateurs (virtuels ou matériel dédié) et à un espace de stockage de données. Elle offre le plus haut niveau de flexibilité et de contrôle de gestion des ressources informatiques. (ex. EC2)
+
+Les types de cloud
+
+
+
+
+PaaS - Platform As A Service, l'infrastructure sous-jacente est managée (le matériel et les systèmes d'exploitation) l’entreprise se concentre sur le déploiement et la gestion des applications. Cela permet d'être plus efficace, sans se soucier de l'approvisionnement des ressources, de la planification des capacités, de la maintenance logicielle, de l'application de correctifs ou de toute autre charge indifférenciée liée à l'exécution des applications. (ex. AWS Beanstalk)
+
+SaaS - Software As A Service, un produit final est exécuté et géré par le prestataire de services. Dans la plupart des cas, les personnes qui font référence au service Saas pensent aux applications des utilisateurs finaux (telles que la messagerie web). Avec une offre SaaS, il n'y a plus à se soucier de la gestion du service ou de celle de l'infrastructure sous-jacente. (Datadog, Slack, PagerDuty...)
+
+Les types de cloud
+Les types de cloud
+
+DevOps & Cloud
+Serverless : Les applications modernes sont d'abord conçues sans serveur, afin d’accroître l'agilité d’une stack d'applications. La gestion du serveur physique est alors déléguée au provider Cloud. AWS a développé des services sans serveur pour les trois couches d’une pile : 
+
+calcul, 
+intégration, 
+magasins de données.
+
+EKS (Elastic Kubernetes Service) : Kubernetes (K8s) est un système open-source permettant d'automatiser le déploiement, la mise à l'échelle et la gestion des applications conteneurisées.
+Cloud Native : Les applications cloud-native sont des applications flexibles, évolutives et distribuées, spécialement conçues pour le cloud. Cette approche du développement et du déploiement d’applications s’appuie sur des technologies et paradigmes associés nativement au cloud computing, notamment des architectures de microservices, des conteneurs et des API.
+DevOps & Cloud
+DevOps & Cloud

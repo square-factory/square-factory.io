@@ -6,3 +6,21 @@
 		background: $secondary-color;
 	}
 }
+.page-title {
+    padding: 0;
+}
+.falogo,.falogo-dark {
+    font-size: 1.3em;
+}
+.falogo i {
+	--fa-primary-color: green;
+}
+.falogo-dark i {
+	--fa-primary-color: red;
+}
+.falogo-dark {
+	color: white;
+}
+#navbar {
+	background-color: lightgray;
+}

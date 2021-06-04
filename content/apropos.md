@@ -1,5 +1,5 @@
 ---
-title: "TOCHANGE-TITRE"
+title: "A propos"
 page_header_bg: "images/bg/section-bg4.jpg"
 description: "This is meta description"
 layout: "about"
@@ -7,30 +7,30 @@ draft: false
 
 ######################### Counter ####################
 counter:
-  enable: false
-  title : "We help entreprenuers <br>starts up and turn <span class=\"text-color\">their ideas into</span> produtcs"
+  enable: true
+  title : "En quelques <b>chiffres</b>"
   counter_item:
   # counter item loop
   - icon : "ti-thumb-up" # here we use themify icon pack : https://themify.me/themify-icons
-    title : "Project Done"
+    title : "experts à votre service"
     count : "1730"
     unit : "+"
     
   # counter item loop
   - icon : "ti-face-smile" # here we use themify icon pack : https://themify.me/themify-icons
-    title : "User Worldwide"
-    count : "125"
-    unit : "M"
+    title : "clients déjà aidés"
+    count : "12"
+    unit : ""
     
   # counter item loop
   - icon : "ti-thumb-up" # here we use themify icon pack : https://themify.me/themify-icons
-    title : "Award Winner"
-    count : "14"
-    unit : ""
+    title : "personnes formées"
+    count : "125"
+    unit : "+"
 
 ####################### Promo video ######################
 video:
-  enable: true
+  enable: false
   title : "TOCHANGE-Example video"
   video_thumb: "images/about/img-34.png"
   video_embed_link : "https://www.youtube.com/embed/ScMzIvxBSi4"
@@ -52,42 +52,47 @@ video:
 ################################## Team ########################
 team:
   enable : true
-  title : "Notre équipe"
+  title : "Nos experts"
   content : "Dicta cupiditate, incidunt quia obcaecati itaque cumque, nostrum ipsum est voluptatibus, porro provident a quam quibusdam. Ducimus possimus, nesciunt minima magni aspernatur."
   team_member:
   # team member loop
-  - name : "Collaborateur1"
+  - name : "Kyan"
+    image : "images/370x420.png"
+    designation : "Role4"
+
+  # team member loop
+  - name : "VictorBlanc"
     image : "images/370x420.png"
     designation : "Role1"
     
   # team member loop
-  - name : "Collaborateur2"
+  - name : "Victoria"
     image : "images/370x420.png"
     designation : "Role2"
     
   # team member loop
-  - name : "Collaborateur3"
+  - name : "Victor-san"
     image : "images/370x420.png"
     designation : "Role3"
     
-  # team member loop
-  - name : "Collaborateur4"
-    image : "images/370x420.png"
-    designation : "Role4"
 
 ################################ Clients ######################
 clients:
   enable : true
-  title : "TOCHANGE-Titre"
-  content : "Dicta cupiditate, incidunt quia obcaecati itaque cumque, nostrum ipsum est voluptatibus, porro
-            provident a quam quibusdam. Ducimus possimus, nesciunt minima magni aspernatur."
+  title : "Certifications"
+  content : "Nos collaborateurs ont acqueris une reconnaissance via des certifications"
   logos:
-  - "images/110px.png"
-  - "images/110px.png"
-  - "images/110px.png"
-  - "images/110px.png"
-  - "images/110px.png"
-  - "images/110px.png"
+  - "images/110px.png" # aws pro sa
+  - "images/110px.png" # aws pro devops
+  - "images/110px.png" # aws ass dev
+  - "images/110px.png" # aws ass sys
+  - "images/110px.png" # aws ass sa
+  - "images/110px.png" # aws spe netwo
+  - "images/110px.png" # aws spe secu
+  - "images/110px.png" # aws spe database
+  - "images/110px.png" # kube cka
+  - "images/110px.png" # kube ckad
+  - "images/110px.png" # gke
     
 ########################## Testimonial ########################
 testimonial:

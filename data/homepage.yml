@@ -1,157 +1,157 @@
 ####################### Banner ##########################################
 banner:
   enable: true
-  bg_image : "images/bg/main-banner1.jpg"
-  subtitle : "TOCHANGE-Nous sommes à votre service"
-  title : "Square Factory"
-  content : "TOCHANGE-Veritatis earum aliquid doloribus molestias, eveniet molestiae aperiam ratione. Facilis
+  bg_image: "images/bg/main-banner1.jpg"
+  subtitle: "TOCHANGE-Nous sommes à votre service"
+  title: "Square Factory"
+  content: "TOCHANGE-Veritatis earum aliquid doloribus molestias, eveniet molestiae aperiam ratione. Facilis
             velit voluptatibus impedit eligendi delectus illo earum voluptatum, laudantium molestiae!"
   button:
-    enable : true
-    label : "TOCHANGE-BUTTON"
-    link : "about"
+    enable: true
+    label: "TOCHANGE-BUTTON"
+    link: "about"
 
 
 ########################### Banner feature ################################
 banner_feature:
-  enable : true
+  enable: true
   feature_item:
     # feature item loop
-    - icon : "fad fa-gavel"
-      title : "TOCHANGE-TEXT1"
-      content : "Saepe nulla praesentium eaque omnis perferendis a doloremque."
+    - icon: "fad fa-vector-square"
+      title: "TOCHANGE-TEXT1"
+      content: "Saepe nulla praesentium eaque omnis perferendis a doloremque."
 
     # feature item loop
-    - icon : "fad fa-balance-scale"
-      title : "TOCHANGE-TEXT2"
-      content : "Saepe nulla praesentium eaque omnis perferendis a doloremque."
+    - icon: "fad fa-balance-scale"
+      title: "TOCHANGE-TEXT2"
+      content: "Saepe nulla praesentium eaque omnis perferendis a doloremque."
 
     # feature item loop
-    - icon : "fad fa-headset"
-      title : "TOCHANGE-TEXT3"
-      content : "Saepe nulla praesentium eaque omnis perferendis a doloremque."
+    - icon: "fad fa-headset"
+      title: "TOCHANGE-TEXT3"
+      content: "Saepe nulla praesentium eaque omnis perferendis a doloremque."
 
 ########################## features #######################################
 feature:
-  enable : true
-  subtitle : "Pourquoi nous choisir"
-  title : "Nous sommes à votre disposition"
-  content : "Veritatis earum aliquid doloribus molestias, eveniet molestiae aperiam ratione. Facilis velit voluptatibus impedit eligendi delectus illo earum voluptatum"
+  enable: true
+  subtitle: "Pourquoi nous choisir"
+  title: "Nous sommes à votre disposition"
+  content: "Veritatis earum aliquid doloribus molestias, eveniet molestiae aperiam ratione. Facilis velit voluptatibus impedit eligendi delectus illo earum voluptatum"
   feature_item:
-    - icon : "fad fa-gavel"
-      title : "TOCHANGE-AVANTAGE1"
-      content : "Veritatis earum aliquid doloribus molestias"
-    - icon : "fad fa-balance-scale"
-      title : "TOCHANGE-AVANTAGE2"
-      content : "Veritatis earum aliquid doloribus molestias"
-    - icon : "fad fa-headset"
-      title : "TOCHANGE-AVANTAGE3"
-      content : "Veritatis earum aliquid doloribus molestias"
-    - icon : "fad fa-archive"
-      title : "TOCHANGE-AVANTAGE4"
-      content : "Veritatis earum aliquid doloribus molestias"
+    - icon: "fad fa-gavel"
+      title: "TOCHANGE-AVANTAGE1"
+      content: "Veritatis earum aliquid doloribus molestias"
+    - icon: "fad fa-balance-scale"
+      title: "TOCHANGE-AVANTAGE2"
+      content: "Veritatis earum aliquid doloribus molestias"
+    - icon: "fad fa-headset"
+      title: "TOCHANGE-AVANTAGE3"
+      content: "Veritatis earum aliquid doloribus molestias"
+    - icon: "fad fa-archive"
+      title: "TOCHANGE-AVANTAGE4"
+      content: "Veritatis earum aliquid doloribus molestias"
 
 ########################### Call to action #####################################
 call_to_action:
   enable: true
-  title : "TOCHANGE-Titre"
-  content : "Veritatis earum aliquid doloribus molestias, eveniet molestiae aperiam ratione. Facilis velit voluptatibus impedit eligendi delectus illo earum voluptatum"
+  title: "On vous accompagne"
+  content: "Veritatis earum aliquid doloribus molestias, eveniet molestiae aperiam ratione. Facilis velit voluptatibus impedit eligendi delectus illo earum voluptatum"
   button:
     enable: true
-    label : "TOCHANGE-BUTTON"
-    link : "portfolio"
+    label: "Nos prestations"
+    link: "prestations"
 
 ################################### portfolio ####################################
 project:
   enable: true
-  title : "Veritatis earum aliquid doloribus molestias"
-  content : "Duis quis accumsan dolor, a congue urna. Maecenas bibendum velit id mi sagittis, non dignissim nibh congue."
+  title: "Veritatis earum aliquid doloribus molestias"
+  content: "Duis quis accumsan dolor, a congue urna. Maecenas bibendum velit id mi sagittis, non dignissim nibh congue."
 
   # project item comes from "content/project" folder
 
 ################################ Counter #######################################
 counter:
-  enable : false
+  enable: false
   counter_item :
     # counter item loop
-    - title : "Project Done"
-      count : "1730"
-      unit : "+"
+    - title: "Project Done"
+      count: "1730"
+      unit: "+"
       
     # counter item loop
-    - title : "User Worldwide"
-      count : "125"
-      unit : "M"
+    - title: "User Worldwide"
+      count: "125"
+      unit: "M"
       
     # counter item loop
-    - title : "Availble Country"
-      count : "39"
-      unit : ""
+    - title: "Availble Country"
+      count: "39"
+      unit: ""
       
     # counter item loop
-    - title : "Award Winner"
-      count : "14"
-      unit : ""
+    - title: "Award Winner"
+      count: "14"
+      unit: ""
 
 ########################## Testimonial #############################################
 testimonial:
-  enable: false
-  title : "What they say about us"
-  content : "They are truely amazing in the industry ,molestiae expedita aspernatur officia, similique minima
+  enable: true
+  title: "What they say about us"
+  content: "They are truely amazing in the industry ,molestiae expedita aspernatur officia, similique minima
             laudantium. Corrupti ipsa perspiciatis commodi nesciunt rerum mollitia enim voluptate!"
   testimonial_item:
     # testimonial item loop
-    - name : "John Partho"
-      image : "images/team/testimonial1.jpg"
-      location : "Newyork USA"
-      content : "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
+    - name: "John Partho"
+      image: "images/team/testimonial1.jpg"
+      location: "Newyork USA"
+      content: "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
             expedita facilis fuga repellat."
             
     # testimonial item loop
-    - name : "Julio Dimple"
-      image : "images/team/testimonial2.jpg"
-      location : "Newyork USA"
-      content : "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
+    - name: "Julio Dimple"
+      image: "images/team/testimonial2.jpg"
+      location: "Newyork USA"
+      content: "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
             expedita facilis fuga repellat."
             
     # testimonial item loop
-    - name : "John Partho"
-      image : "images/team/testimonial1.jpg"
-      location : "Newyork USA"
-      content : "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
+    - name: "John Partho"
+      image: "images/team/testimonial1.jpg"
+      location: "Newyork USA"
+      content: "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
             expedita facilis fuga repellat."
             
     # testimonial item loop
-    - name : "Julio Dimple"
-      image : "images/team/testimonial2.jpg"
-      location : "Newyork USA"
-      content : "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
+    - name: "Julio Dimple"
+      image: "images/team/testimonial2.jpg"
+      location: "Newyork USA"
+      content: "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
             expedita facilis fuga repellat."
             
     # testimonial item loop
-    - name : "John Partho"
-      image : "images/team/testimonial1.jpg"
-      location : "Newyork USA"
-      content : "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
+    - name: "John Partho"
+      image: "images/team/testimonial1.jpg"
+      location: "Newyork USA"
+      content: "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
             expedita facilis fuga repellat."
             
     # testimonial item loop
-    - name : "Julio Dimple"
-      image : "images/team/testimonial2.jpg"
-      location : "Newyork USA"
-      content : "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
+    - name: "Julio Dimple"
+      image: "images/team/testimonial2.jpg"
+      location: "Newyork USA"
+      content: "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
             expedita facilis fuga repellat."
             
     # testimonial item loop
-    - name : "John Partho"
-      image : "images/team/testimonial1.jpg"
-      location : "Newyork USA"
-      content : "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
+    - name: "John Partho"
+      image: "images/team/testimonial1.jpg"
+      location: "Newyork USA"
+      content: "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
             expedita facilis fuga repellat."
             
     # testimonial item loop
-    - name : "Julio Dimple"
-      image : "images/team/testimonial2.jpg"
-      location : "Newyork USA"
-      content : "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
+    - name: "Julio Dimple"
+      image: "images/team/testimonial2.jpg"
+      location: "Newyork USA"
+      content: "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
             expedita facilis fuga repellat."

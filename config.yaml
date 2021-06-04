@@ -58,33 +58,24 @@ params:
     #   link: '#'
 menu:
   main:
-    - name: Accueil
-      url: /
-      weight: 10
-    - name: TOCHANGE
-      url: about
+    # - name: Accueil
+    #   url: /
+    #   weight: 10
+    - name: Notre expertise
+      url: expertise
       weight: 20
-    - name: TOCHANGE
-      url: blog
+    - name: Nos Prestations
+      url: prestations
       weight: 30
-    - name: TOCHANGE
-      url: portfolio
-      weight: 40
-    - weight: 50
-      name: TOCHANGE-MENU
-      hasChildren: true
-    - parent: TOCHANGE-MENU
-      name: PageTest2
-      url: pagetest2
-    - parent: TOCHANGE-MENU
-      name: PageTest
-      url: pagetest
+    - name: A propos
+      url: apropos
+      weight: 50
   company:
     - name: TOCHANGE1
       url: about
       weight: 2
     - name: TOCHANGE2
-      url: portfolio
+      url: expertise
       weight: 3
     - name: TOCHANGE3
       url: service

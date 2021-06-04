@@ -1,5 +1,5 @@
 ---
-title: "Our Services"
+title: "Nos Prestations"
 page_header_bg: "images/bg/section-bg5.jpg"
 description: "This is meta description"
 layout: "service"
@@ -7,53 +7,56 @@ draft: false
 
 ############### Service style 1 ################
 featured_service:
-  enable : true
+  enable : false
   service_item:
   # service item loop
-  - title : "Custom Software development"
+  - title : "Migration cloud native"
     image : "images/service/service-1.jpg"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi voluptatum, nobis quos dolores reiciendism unde. Est obcaecati aspernatur pariatur aliquid quos repellendus, amet architecto similique, cumque nisi earum, culpa, ipsa!"
+    content : "container - serverless - micro services"
           
   # service item loop
-  - title : "Software Maintenance"
+  - title : "Accompagnement DevOps"
+    image : "images/service/service-4.jpg"
+    content : "mindset - infra-as-code - cicd"
+
+  # service item loop
+  - title : "Troubleshooting"
     image : "images/service/service-3.jpg"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi voluptatum, nobis quos dolores reiciendism unde. Est obcaecati aspernatur pariatur aliquid quos repellendus, amet architecto similique, cumque nisi earum, culpa, ipsa!"
           
-  # service item loop
-  - title : "Web App Development"
+  - title : "Formation"
     image : "images/service/service-4.jpg"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi voluptatum, nobis quos dolores reiciendism unde. Est obcaecati aspernatur pariatur aliquid quos repellendus, amet architecto similique, cumque nisi earum, culpa, ipsa!"
-
 
 #################### Case Study #####################
 casestudy:
   enable : true
-  title : "How we works"
+  title : ""
   content : "There are many variations of lorem passages of Lorem Ipsum available, but the majority have suffered. All the Lorem Ipsum generators."
   case:
   # case loop
-  - title : "Competitor Research"
+  - title : "Migration cloud native"
     image : "images/about/process-3.jpg"
-    content : "Nihil fugit officia esse vero, animi tenetur ullam, dolor aperiam minus aliquid enim laudantium fuga Commodi voluptas, deleniti distinctio quam totam vitae."
+    content : "Nihil fugit officia esse vero, animi tenetur ullam, dolor aperiam minus aliquid enim laudantium fuga Commodi voluptas, deleniti distinctio quam totam vitae. Nihil fugit officia esse vero, animi tenetur ullam, dolor aperiam minus aliquid enim laudantium fuga Commodi voluptas, deleniti distinctio quam totam vitae. Nihil fugit officia esse vero, animi tenetur ullam"
             
   # case loop
-  - title : "Making Functional Strategy"
+  - title : "Accompagnement DevOps"
     image : "images/about/process-2.jpg"
     content : "Nihil fugit officia esse vero, animi tenetur ullam, dolor aperiam minus aliquid enim laudantium fuga Commodi voluptas, deleniti distinctio quam totam vitae."
             
   # case loop
-  - title : "Project Outline"
+  - title : "Troubleshooting"
     image : "images/about/process-1.jpg"
     content : "Nihil fugit officia esse vero, animi tenetur ullam, dolor aperiam minus aliquid enim laudantium fuga Commodi voluptas, deleniti distinctio quam totam vitae."
             
   # case loop
-  - title : "Final Delivery"
+  - title : "Formation"
     image : "images/about/structure_sass.png"
     content : "Nihil fugit officia esse vero, animi tenetur ullam, dolor aperiam minus aliquid enim laudantium fuga Commodi voluptas, deleniti distinctio quam totam vitae."
 
 ################### Service style 2 #################
 service:
-  enable : true
+  enable : false
   title : "Industry Leading Managed <br>Services & Staffing Solutions"
   content : "Quos recusandae dolore, consequuntur nemo hic nisi perferendis. Vel praesentium magnam architecto delectus blanditiis doloremque, deleniti aperiam ab adipisci!"
   service_item:

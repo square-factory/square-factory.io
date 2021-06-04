@@ -6,14 +6,14 @@
   <div class="container">
     <div class="row">
       <div class="row">
-        <div class="col-lg-6">
+        <div class="col-lg-4">
           <div class="case-img">
             {{ $img_original := resources.Get .Params.image }}
             <img loading="lazy" src="{{ $img_original.Permalink }}" alt="{{ .Title }}" class="img-fluid w-100">
           </div>
         </div>
 
-        <div class="col-lg-6 col-md-8">
+        <div class="col-lg-8 col-md-8">
           <div class="case-content pl-4 mt-4 mt-lg-0 content">
             {{ .Content }}
           </div>
