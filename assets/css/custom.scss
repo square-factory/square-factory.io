@@ -7,7 +7,11 @@
 	}
 }
 .page-title {
-    padding: 0;
+    padding: 5px;
+}
+.nav-active a {
+	font-weight: bold !important;
+	color: red !important;
 }
 .falogo,.falogo-dark {
     font-size: 1.3em;
@@ -18,9 +22,17 @@
 .falogo-dark i {
 	--fa-primary-color: red;
 }
-.falogo-dark {
-	color: white;
+.overlay-item i {
+	--fa-primary-color: red;
 }
-#navbar {
-	background-color: lightgray;
+.falogo-dark {
+	color: white !important;
+}
+// #navbar {
+// 	background-color: lightgray;
+// }
+.portflio-item .overlay-item i {
+    width: 74px;
+    height: 74px;
+	padding-top: 18px;
 }

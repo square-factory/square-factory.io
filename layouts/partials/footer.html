@@ -4,11 +4,12 @@
 		<div class="row">
 			<div class="col-lg-3 mr-auto col-sm-6">
 				<div class="widget mb-5 mb-lg-0">
-					<div class="logo mb-4">
+					<div class="mb-4">
 						{{ with site.Params.logo_footer }} 
 						<img loading="lazy" src="{{ . | absURL }}" alt="{{ site.Title }}" class="img-fluid">
 						{{ else }}
-						<h3>{{ site.Title }}</h3>
+						<span class="falogo-dark"><i class="fad fa-vector-square"></i> &nbsp;<span class="fatitle">Factory</span></span>
+						<!-- <h3>{{ site.Title }}</h3> -->
 						{{ end }}
 					</div>
 					<p>{{ site.Params.footer_content | markdownify }}</p>

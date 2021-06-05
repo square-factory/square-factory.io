@@ -1,10 +1,10 @@
-<nav class="navbar navbar-expand-lg py-4 navigation header-padding {{ if not .IsHome }} nav-text-white {{ end }}" id="navbar">
+<nav class="navbar navbar-expand-lg py-4 navigation header-padding{{ if not .IsHome }} nav-text-white{{ end }}" id="navbar">
   <div class="container-fluid">
     <a class="navbar-brand" href="{{ site.BaseURL }}">
       {{ if .IsHome }}
-      <span class="falogo"><i class="fad fa-vector-square"></i> <span class="fatitle">Factory</span></span>
+      <span class="falogo"><i class="fad fa-vector-square"></i>&nbsp;<span class="fatitle">Factory</span></span>
       {{ else }}
-      <span class="falogo-dark"><i class="fad fa-vector-square"></i> <span class="fatitle">Factory</span></span>
+      <span class="falogo-dark"><i class="fad fa-vector-square"></i>&nbsp;<span class="fatitle">Factory</span></span>
       {{ end }}
     </a>
 
@@ -17,8 +17,7 @@
     {{ $current := . }}
       <ul class="navbar-nav m-auto">
         {{ range site.Menus.main }}
-        {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
-        {{ $active = or $active (eq .Name $current.Title) }}
+        {{ $active := (eq .Name $current.Title) }}
         {{ if .HasChildren }}
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
@@ -32,7 +31,7 @@
           </div>
         </li>
         {{ else }}
-        <li class="nav-item {{ if $active }}btn-success{{ end }}">
+        <li class="nav-item {{ if $active }}nav-active{{ end }}">
           <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
         </li>
         {{ end }}
