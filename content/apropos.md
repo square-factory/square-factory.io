@@ -10,10 +10,10 @@ counter:
   counter_item:
   - icon: fad fa-users-cog
     title: "experts à votre service"
-    count: "1730"
-    unit: "+"
+    count: "4"
+    unit: ""
   - icon: fad fa-handshake-alt
-    title: "clients déjà aidés"
+    title: "clients accompagnés"
     count: "12"
     unit: ""
   - icon: fad fa-graduation-cap
@@ -46,11 +46,11 @@ video:
 team:
   enable: true
   title: "Nos experts"
-  content: "Dicta cupiditate, incidunt quia obcaecati itaque cumque, nostrum ipsum est voluptatibus, porro provident a quam quibusdam. Ducimus possimus, nesciunt minima magni aspernatur."
+  content: "Avec Square Factory, vous ne trouverez pas seulement une véritable expertise technique. Nous croyons fermement que les compétences interpersonnelles et l'amélioration continue sont aussi important que les compétences techniques."
   team_member:
   # https://generated.photos/faces/young-adult/joy
   - name: "Kyan"
-    image: "images/370x420.png"
+    image: "images/team/generated_photos_5e6816ce6d3b380006d89fd1.jpg"
     designation: "Whatever Guru"
   - name: "VictorBlanc"
     image: "images/team/generated_photos_5e68893c6d3b380006f22fa1.jpg"

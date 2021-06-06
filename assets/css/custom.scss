@@ -32,8 +32,8 @@
 // 	background-color: lightgray;
 // }
 .portflio-item .overlay-item i {
-    width: 74px;
-    height: 74px;
+	width: 74px;
+	height: 74px;
 	padding-top: 18px;
 }
 .cta{
@@ -42,5 +42,9 @@
 	position: relative;
 }
 .counter--style i {
-    padding-top: 32px;
+	padding-top: 32px;
+}
+.service-item-list i {
+	--fa-primary-color: darkgreen;
+	--fa-secondary-color: green;
 }
