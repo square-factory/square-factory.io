@@ -1,15 +1,15 @@
 ####################### Banner ##########################################
 banner:
   enable: true
-  bg_image: "images/bg/main-banner1.jpg"
+  bg_image: "images/bg/main-banner.jpg"
   subtitle: "TOCHANGE-Nous sommes à votre service"
   title: "Square Factory"
   content: "TOCHANGE-Veritatis earum aliquid doloribus molestias, eveniet molestiae aperiam ratione. Facilis
             velit voluptatibus impedit eligendi delectus illo earum voluptatum, laudantium molestiae!"
   button:
     enable: true
-    label: "TOCHANGE-BUTTON"
-    link: "about"
+    label: "Nous découvrir"
+    link: "apropos"
 
 
 ########################### Banner feature ################################
@@ -18,18 +18,18 @@ banner_feature:
   feature_item:
     # feature item loop
     - icon: "fad fa-vector-square"
-      title: "TOCHANGE-TEXT1"
-      content: "Saepe nulla praesentium eaque omnis perferendis a doloremque."
+      title: "Accompagnement"
+      content: "Nous vous suivons de A à Z quelque soit vos projets."
 
     # feature item loop
-    - icon: "fad fa-balance-scale"
-      title: "TOCHANGE-TEXT2"
-      content: "Saepe nulla praesentium eaque omnis perferendis a doloremque."
+    - icon: "fad fa-cogs"
+      title: "Expertise"
+      content: "Même les tâches les plus complexes sont réalisées avec qualité"
 
     # feature item loop
     - icon: "fad fa-headset"
-      title: "TOCHANGE-TEXT3"
-      content: "Saepe nulla praesentium eaque omnis perferendis a doloremque."
+      title: "Disponibilité"
+      content: "Nous serons toujours là quelque soit votre besoin, nous sommes à votre écoute"
 
 ########################## features #######################################
 feature:
