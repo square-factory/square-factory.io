@@ -1,23 +1,19 @@
 ---
 title: "Automation"
-category: "TOCHANGE-Sous titre"
+category: "Control & Monitor Production"
 page_header_bg: "images/bg/section-bg5.jpg"
-image : "images/expertises/automation-best-practices.jpg"
+image : "images/expertises/automation.jpg"
 ---
 
 
-### TOCHANGE-Lorem Ipsum
+## Automation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse suscipit lacus non lorem dignissim auctor. Maecenas est nunc, blandit et sem sit amet, aliquet finibus lorem. Vivamus rutrum fringilla eros, sit amet rhoncus mauris dictum et. Pellentesque consectetur ultricies convallis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla metus risus, pretium non magna condimentum, iaculis ullamcorper est. Donec imperdiet sit amet urna sed malesuada. Donec feugiat lorem in tortor condimentum, vel porttitor urna convallis. Etiam ultricies vel elit eu vehicula.
+L’expertise Revolve des services Cloud et des architectures techniques micro-services permet d’évaluer lors d’ateliers de travail collaboratif avec les équipes de développement la vision technique du projet. Devoteam Revolve prête une attention particulière au cycle de vie des applications dans les différents environnements, notamment sur les opérations de mise en production dans une optique de mise en place de déploiements continus reposant sur les principes d’artefact applicatifs immuables.
 
-Duis quis accumsan dolor, a congue urna. Maecenas bibendum velit id mi sagittis, non dignissim nibh congue. Duis aliquam dui nec congue facilisis. Praesent ac pharetra velit. Sed ullamcorper facilisis velit, nec finibus lacus facilisis eget. In id sapien sem. Phasellus commodo placerat imperdiet. Mauris vitae pulvinar lorem. Suspendisse posuere tristique tincidunt.
+Dans un contexte où le nouveau développement applicatif supporte la transformation digitale des entreprises, Il est primordial de revoir les méthodes des équipes opérations en se basant sur de nouveaux piliers que sont l’Infrastructure as Code et le déploiement continu.
 
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
+### Notre objectif
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere metus quis dolor feugiat, sit amet blandit lorem egestas. Mauris condimentum id justo id pulvinar. In eu pretium nisi, vitae dignissim urna. Donec non ligula gravida lacus accumsan dapibus. Mauris tristique, urna non tincidunt pulvinar, dolor est congue lectus, id auctor diam quam vel enim. Phasellus ornare viverra elit, nec malesuada lectus venenatis at. Proin ultricies odio pellentesque urna lobortis commodo. Etiam ligula odio, ultricies nec massa in, suscipit tincidunt turpis. Vestibulum mollis facilisis mi pretium accumsan.
+En étant partie prenante du projet à sa création, Revolve permet aux équipes de construire les environnements techniques à la demande en utilisant des outils comme Terraform ou Cloudformation. L’implication dès cette phase de conception permet d’itérer très rapidement avec le client sur un prototype d’architecture que sera la base de la future application en production.
 
-Aenean sapien est, vehicula a sapien non, volutpat suscipit tortor. In hac habitasse platea dictumst. Suspendisse molestie nisl et ligula luctus efficitur. Pellentesque id lorem dui. Fusce et massa lorem. Quisque faucibus, augue vitae molestie sollicitudin, felis nunc eleifend est, ut elementum nunc leo et mauris. Maecenas pellentesque accumsan tristique. Mauris at nunc eget tellus viverra condimentum aliquam eu est. Quisque nulla tellus, tempor a libero nec, facilisis gravida augue.
+Au-delà de l’aspect technologique, la démarche d’accompagnement terrain permet de faire grandir les clients sur ces sujets novateurs et stratégiques. L’objectif est de pérenniser les travaux en partageant les méthodes et les connaissances. L’impact de Revolve au sein de l’organisation avec laquelle elle travaille se propage donc bien au-delà du périmètre identifié d’intervention. Les activités de la cellule Continuous Deployment s’appliquent également sur les DataCenters du client mais avec les limites inhérentes de l’Automatisation sur site (On-Premise Automation).

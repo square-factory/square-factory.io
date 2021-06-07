@@ -1,23 +1,15 @@
 ---
 title: "Kubernetes"
-category: "TOCHANGE-Sous titre"
+category: "Power-up your containers"
 page_header_bg: "images/bg/section-bg5.jpg"
-image : "images/expertises/kubernetes-logo-big.png"
+image : "images/expertises/kubernetes.jpg"
 ---
 
 
-### TOCHANGE-Lorem Ipsum
+## Kubernetes
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse suscipit lacus non lorem dignissim auctor. Maecenas est nunc, blandit et sem sit amet, aliquet finibus lorem. Vivamus rutrum fringilla eros, sit amet rhoncus mauris dictum et. Pellentesque consectetur ultricies convallis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla metus risus, pretium non magna condimentum, iaculis ullamcorper est. Donec imperdiet sit amet urna sed malesuada. Donec feugiat lorem in tortor condimentum, vel porttitor urna convallis. Etiam ultricies vel elit eu vehicula.
+Depuis 5 ans dev, ops et devops, tous nos joueurs et joueuses ont largement testé et expérimenté les containers, qui sont aujourd’hui des outils incontournables de la chaîne de déploiement applicative. Au-delà de l’expérimentation, ils et elles se sont attaché·e·s à établir et à affiner les best practices pour les intégrer dans la chaîne CI/CD, les déployer en production, et passer à l’échelle.
 
-Duis quis accumsan dolor, a congue urna. Maecenas bibendum velit id mi sagittis, non dignissim nibh congue. Duis aliquam dui nec congue facilisis. Praesent ac pharetra velit. Sed ullamcorper facilisis velit, nec finibus lacus facilisis eget. In id sapien sem. Phasellus commodo placerat imperdiet. Mauris vitae pulvinar lorem. Suspendisse posuere tristique tincidunt.
+### Playground
 
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere metus quis dolor feugiat, sit amet blandit lorem egestas. Mauris condimentum id justo id pulvinar. In eu pretium nisi, vitae dignissim urna. Donec non ligula gravida lacus accumsan dapibus. Mauris tristique, urna non tincidunt pulvinar, dolor est congue lectus, id auctor diam quam vel enim. Phasellus ornare viverra elit, nec malesuada lectus venenatis at. Proin ultricies odio pellentesque urna lobortis commodo. Etiam ligula odio, ultricies nec massa in, suscipit tincidunt turpis. Vestibulum mollis facilisis mi pretium accumsan.
-
-Aenean sapien est, vehicula a sapien non, volutpat suscipit tortor. In hac habitasse platea dictumst. Suspendisse molestie nisl et ligula luctus efficitur. Pellentesque id lorem dui. Fusce et massa lorem. Quisque faucibus, augue vitae molestie sollicitudin, felis nunc eleifend est, ut elementum nunc leo et mauris. Maecenas pellentesque accumsan tristique. Mauris at nunc eget tellus viverra condimentum aliquam eu est. Quisque nulla tellus, tempor a libero nec, facilisis gravida augue.
+C’est sur Docker que se jouent la plupart des parties mais nous gardons toujours un oeil sur RKT. Pour passer à l’échelle, nous nous appuyons sur les orchestrateurs les plus courants du marché : Kubernetes, Amazon EKS, Amazon ECS, Google Kubernetes Engine, Google Container Service ou Azure Container Service.
