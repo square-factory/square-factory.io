@@ -2,22 +2,16 @@
 title: "Cloud Native"
 category: "TOCHANGE-Sous titre"
 page_header_bg: "images/bg/section-bg5.jpg"
-image : "images/expertises/CloudNativeChart.jpeg"
+image : "images/expertises/cloud-native.jpg"
 ---
 
 
-### TOCHANGE-Lorem Ipsum
+## Cloud Native
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse suscipit lacus non lorem dignissim auctor. Maecenas est nunc, blandit et sem sit amet, aliquet finibus lorem. Vivamus rutrum fringilla eros, sit amet rhoncus mauris dictum et. Pellentesque consectetur ultricies convallis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla metus risus, pretium non magna condimentum, iaculis ullamcorper est. Donec imperdiet sit amet urna sed malesuada. Donec feugiat lorem in tortor condimentum, vel porttitor urna convallis. Etiam ultricies vel elit eu vehicula.
+Qu’ils ou elles aient un background de développeur·se ou d’ops tous les joueurs et les joueuses de Cloud Native Apps partagent en commun une expérience de la production et la compréhension des enjeux métier. Pour booster l’innovation et réduire le time to market, ils et elles accompagnent nos clients dans le développement d’applications secure by design, scalables et robustes.
 
-Duis quis accumsan dolor, a congue urna. Maecenas bibendum velit id mi sagittis, non dignissim nibh congue. Duis aliquam dui nec congue facilisis. Praesent ac pharetra velit. Sed ullamcorper facilisis velit, nec finibus lacus facilisis eget. In id sapien sem. Phasellus commodo placerat imperdiet. Mauris vitae pulvinar lorem. Suspendisse posuere tristique tincidunt.
+Certifiés par Google Cloud Platform ou Amazon Web Services, nos joueurs sont formés à l’état de l’art des dernières technologies Cloud.
 
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
+### PLAYGROUND
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere metus quis dolor feugiat, sit amet blandit lorem egestas. Mauris condimentum id justo id pulvinar. In eu pretium nisi, vitae dignissim urna. Donec non ligula gravida lacus accumsan dapibus. Mauris tristique, urna non tincidunt pulvinar, dolor est congue lectus, id auctor diam quam vel enim. Phasellus ornare viverra elit, nec malesuada lectus venenatis at. Proin ultricies odio pellentesque urna lobortis commodo. Etiam ligula odio, ultricies nec massa in, suscipit tincidunt turpis. Vestibulum mollis facilisis mi pretium accumsan.
-
-Aenean sapien est, vehicula a sapien non, volutpat suscipit tortor. In hac habitasse platea dictumst. Suspendisse molestie nisl et ligula luctus efficitur. Pellentesque id lorem dui. Fusce et massa lorem. Quisque faucibus, augue vitae molestie sollicitudin, felis nunc eleifend est, ut elementum nunc leo et mauris. Maecenas pellentesque accumsan tristique. Mauris at nunc eget tellus viverra condimentum aliquam eu est. Quisque nulla tellus, tempor a libero nec, facilisis gravida augue.
+De plus en plus d’entreprises optent pour une approche multi-Cloud. Afin de répondre à la problématique d’uniformiser les méthodes de déploiements et de gérer la sécurité des applications à l’échelle, nous utilisons les outils Open Source Hashicorp comme Packer, Terraform, Vault et Consul. Et les services managés de Google Cloud Platform et Amazon Web Services n’ont plus de secrets pour nous.

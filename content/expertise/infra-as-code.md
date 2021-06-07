@@ -1,8 +1,8 @@
 ---
 title: "Infra-As-Code"
-category: "TOCHANGE-Sous titre"
+category: "Own your infra"
 page_header_bg: "images/bg/section-bg5.jpg"
-image : "images/expertises/cloudformation-indentation-error-with-highlighting.png"
+image : "images/expertises/iac2.jpg"
 ---
 
 

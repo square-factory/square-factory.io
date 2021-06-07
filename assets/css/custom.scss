@@ -48,3 +48,6 @@
 	--fa-primary-color: darkgreen;
 	--fa-secondary-color: green;
 }
+.portfolio a img {
+	outline: 2px dashed $secondary-color;
+}
