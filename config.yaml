@@ -33,7 +33,7 @@ params:
   author: Square-Factory
   mobile: +33 1 23 45 67 89
   email: support@square-factory.io
-  location: TOCHANGE-Paris
+  location: 231 rue Saint-Honoré 75001 Paris
   footer_content: >-
     Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos
     obcaecati tenetur veritatis eveniet distinctio possimus.
@@ -50,12 +50,14 @@ params:
     enable: false
     expire_days: 2
   social:
-    - icon: fab fa-facebook-square
+    - icon: fa-2x fab fa-facebook-square
       link: '#'
-    - icon: fab fa-linkedin
+    - icon: fa-2x fab fa-linkedin
       link: '#'
-    # - icon: ti-github
-    #   link: '#'
+    - icon: fa-2x fab fa-github
+      link: 'https://github.com/square-factory'
+  contact:
+    formAction: '/merci'
 menu:
   main:
     # - name: Accueil
@@ -99,15 +101,18 @@ menu:
       url: contact
       weight: 6
   support:
+    - name: Documentation DAT / DEX
+      url: prestations
+      weight: 10
     - name: Migration Cloud
-      url: about
-      weight: 1
+      url: prestations
+      weight: 20
     - name: Accompagnement
-      url: about
-      weight: 2
+      url: prestations
+      weight: 30
     - name: Troubleshooting
-      url: portfolio
-      weight: 3
+      url: prestations
+      weight: 40
     - name: Formation
-      url: service
-      weight: 4
+      url: prestations
+      weight: 50

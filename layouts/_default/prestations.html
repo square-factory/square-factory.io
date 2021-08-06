@@ -135,9 +135,9 @@
 {{ end }}
 <!-- /call to action -->
 
-<!-- service style 2 -->
-{{ if .Params.service.enable }}
-{{ with .Params.service }}
+<!-- technology -->
+{{ if .Params.technology.enable }}
+{{ with .Params.technology }}
 <section class="section service">
   <div class="container">
     <div class="row">
@@ -149,11 +149,11 @@
       </div>
     </div>
     <div class="row align-items-center">
-      {{ range .service_item }}
+      {{ range .technology_item }}
       <div class="col-lg-4 col-md-6">
         <div class="service-item-list">
-          <i class="{{ .icon }}"></i>
-          <p>{{ .title | markdownify }}</p>
+          <i class="fad fa-check-circle"></i>
+          <p>{{ . | markdownify }}</p>
         </div>
       </div>
       {{ end }}
@@ -162,6 +162,6 @@
 </section>
 {{ end }}
 {{ end }}
-<!-- /service style 2 -->
+<!-- /technology -->
 
 {{ end }}

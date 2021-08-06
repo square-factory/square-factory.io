@@ -1,7 +1,7 @@
 ####################### Banner ##########################################
 banner:
   enable: true
-  bg_image: "images/bg/main-banner.jpg"
+  bg_image: images/bg/main-banner-mask.jpg
   subtitle: "TOCHANGE-Nous sommes à votre service"
   title: "Square Factory"
   content: "TOCHANGE-Veritatis earum aliquid doloribus molestias, eveniet molestiae aperiam ratione. Facilis

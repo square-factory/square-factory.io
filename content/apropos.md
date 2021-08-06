@@ -1,6 +1,6 @@
 ---
 title: "A propos"
-page_header_bg: "images/bg/section-bg.jpg"
+page_header_bg: "images/bg/section-bg6.jpg"
 layout: "apropos"
 
 ######################### Counter ####################

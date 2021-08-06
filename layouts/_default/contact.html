@@ -13,7 +13,7 @@
 
         <div class="row">
           <div class="col-lg-8">
-            <form id="contact-form" class="contact__form" method="post" action="{{.form_action}}">
+            <form id="contact-form" class="contact__form" method="post" action="{{ site.Params.contact.formAction }}" data-netlify="true">
               <div class="form-group">
                 <select class="form-control" id="exampleFormControlSelect1">
                   <option selected disabled>Vous nous contactez pour ...</option>
@@ -48,10 +48,6 @@
             <div class="short-info mt-5 mt-lg-0">
               <ul class="list-unstyled">
                 <li>
-                  <h5>Appelez nous</h5>
-                  {{ site.Params.mobile }}
-                </li>
-                <li>
                   <h5>Envoyez nous un mail</h5>
                   {{ site.Params.email }}
                 </li>
@@ -75,14 +71,16 @@
     </div>
 
     {{ if .Params.map.enable }}
-    {{ with .Params.map }}
+    {{ with .Params.geo }}
     <div class="row">
       <div class="col-lg-12">
         <div class="google-map mt-90 mb-5">
-          <div id="map"
-          data-latitude="{{ .map_latitude }}"
-          data-longitude="{{ .map_longitude }}"
-          data-marker="{{ .map_marker | absURL }}"></div>
+          <div class="map">
+            <div>
+              <iframe class="openstreetmap" src="{{ .embed }}"></iframe>
+              <small><a href="{{ .map_big }}">Agrandir la carte (et accéder aux directions)</a></small>
+            </div>
+          </div>
         </div>
       </div>
     </div>

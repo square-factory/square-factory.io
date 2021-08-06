@@ -1,6 +1,6 @@
 ---
 title: "Nous contacter"
-page_header_bg: "images/bg/section-bg5.jpg"
+page_header_bg: "images/bg/section-bg4.jpg"
 description: "This is meta description"
 layout: "contact"
 draft: false
@@ -9,15 +9,14 @@ draft: false
 contact:
   subtitle : "Envoyez nous un message"
   title : "Formulaire de contact"
-  form_action: "#" # Contact form works with https://formspree.io/
+  # form_action: "#" # Contact form works with https://formspree.io/
   contact_topics:
-  - "Catégorie 1"
-  - "Catégorie 2"
-  - "Catégorie 3"
-  - "Catégorie 4"
-  - "Catégorie 5"
-  - "Catégorie 6"
-  - "Catégorie 7"
+  - "Aide sur DAT / DEX"
+  - "Migration Cloud"
+  - "Accompagnement / Formation"
+  - "Troubleshooting / Performance"
+  - "Analyse FinOps"
+  - "Autres"
 
 ####################### map ######################
 map:
@@ -26,7 +25,11 @@ map:
   map_latitude : "51.5223477"
   map_longitude : "-0.1622023"
   map_marker : "images/marker.png"
-  
+geo:
+  title: Square Factory
+  embed: https://www.openstreetmap.org/export/embed.html?bbox=2.3264998197555546%2C48.86411131208258%2C2.3318964242935185%2C48.86831766397005&layer=mapnik&marker=48.86621311996304%2C2.3291968398552854
+  map_big: https://www.openstreetmap.org/?mlat=48.86621&mlon=2.3292#map=18/48.86621/2.3292
+
 ##################### branch ######################
 branch:
   enable : false
