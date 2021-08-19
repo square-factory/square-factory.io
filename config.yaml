@@ -35,8 +35,7 @@ params:
   email: support@square-factory.io
   location: 231 rue Saint-Honoré 75001 Paris
   footer_content: >-
-    Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos
-    obcaecati tenetur veritatis eveniet distinctio possimus.
+    Notre *leitmotiv* est de mettre notre expertise reconnue à votre service pour vous accompagner dans le but de mener à bien vos différents projets. **Votre succès sera notre réussite !**
   copyright: >-
     Site réalisé par [Square-Factory](https://square-factory.io/) &copy; 2021
   preloader:
@@ -116,3 +115,6 @@ menu:
     - name: Formation
       url: prestations
       weight: 50
+    - name: FinOps
+      url: prestations
+      weight: 60

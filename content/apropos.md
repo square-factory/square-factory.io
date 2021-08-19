@@ -5,7 +5,7 @@ layout: "apropos"
 
 ######################### Counter ####################
 counter:
-  enable: true
+  enable: false
   title: "En quelques <b>chiffres</b>"
   counter_item:
   - icon: fad fa-users-cog
@@ -45,7 +45,7 @@ video:
 ################################## Team ########################
 team:
   enable: true
-  title: "Nos experts"
+  title: "Parmis nos experts"
   content: "Avec Square Factory, vous ne trouverez pas seulement une véritable expertise technique. Nous croyons fermement que les compétences interpersonnelles et l'amélioration continue sont aussi important que les compétences techniques."
   team_member:
   # https://generated.photos/faces/young-adult/joy
