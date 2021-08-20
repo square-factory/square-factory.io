@@ -1,7 +1,7 @@
 ---
 title: "Cloud Native"
 category: "Elasticity & Cost effective"
-page_header_bg: "images/bg/section-bg5.jpg"
+page_header_bg: "images/bg/section-clouds.jpg"
 image : "images/expertises/255x340.jpg"
 ---
 
@@ -18,6 +18,11 @@ Certifiés par [Google Cloud Platform](https://cloud.google.com/) ou [Amazon Web
 
 De plus en plus d’entreprises optent pour une approche multi-Cloud.
 
-Afin de répondre à la problématique d’uniformiser les méthodes de déploiements et de gérer la sécurité des applications à l’échelle, nous utilisons les outils Open Source Hashicorp comme [Packer](https://www.packer.io/), [Terraform](https://www.terraform.io/), [Vault](https://www.vaultproject.io/) et [Consul](https://www.consul.io/).
+Afin de répondre à la problématique d’uniformiser les méthodes de déploiements et de gérer la sécurité des applications à l’échelle, nous utilisons les outils Open Source Hashicorp comme :
+
+- [Packer](https://www.packer.io/)
+- [Terraform](https://www.terraform.io/)
+- [Vault](https://www.vaultproject.io/)
+- [Consul](https://www.consul.io/)
 
 Et les services managés de [Google Cloud Platform](https://cloud.google.com/) et [Amazon Web Services](https://aws.amazon.com/) n’ont plus de secrets pour nous.
