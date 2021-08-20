@@ -1,6 +1,6 @@
 ---
-title: "Automatisaton"
-category: "Contrôle & Monitore"
+title: "Automatisation"
+category: "Control & Monitor"
 page_header_bg: "images/bg/section-cogs.jpg"
 image : "images/expertises/255x340.jpg"
 ---
