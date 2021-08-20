@@ -56,3 +56,22 @@
     height: 500px;
     border: none;
 }
+.content p a {
+	font-weight: bold;
+	color: $secondary-color;
+	border-bottom: dotted 1px blue;
+	text-decoration: none;
+}
+.content p a:hover
+{
+	background-color: $secondary-color;
+    color: #fff;
+}
+.content h2 {
+	// https://codepen.io/LukeAtWork/pen/rNBQWOJ?editors=1100#0
+	background-image: linear-gradient(
+		0,
+		$secondary-color 30%,
+		transparent 30%
+	);
+}

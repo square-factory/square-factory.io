@@ -38,7 +38,7 @@
               {{ $img_original := resources.Get .Params.image }}
               {{ $img := $img_original.Fill "300x400" }}
               <img loading="lazy" src="{{ $img.RelPermalink }}" alt="{{ .Title }}" class="img-fluid w-100">
-              <div class="overlay-item"><i class="ti-link"></i></div>
+              <div class="overlay-item"><i class="fad fa-link"></i></div>
               <div class="portfolio-item-content">
                 <h3 class="mb-0 text-white">{{ .Title | markdownify }}</h3>
                 <p class="text-white-50">{{ .Params.Category }}</p>
