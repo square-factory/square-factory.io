@@ -37,7 +37,7 @@ params:
   footer_content: >-
     Notre *leitmotiv* est de mettre notre expertise reconnue à votre service pour vous accompagner dans le but de mener à bien vos différents projets. **Votre succès sera notre réussite !**
   copyright: >-
-    Site réalisé par [Square-Factory](https://square-factory.io/) &copy; 2021
+    Site réalisé par [Square-Factory](https://square-factory.io/) &copy; 2022
   preloader:
     enable: true
     preloader: images/logo.png
@@ -73,32 +73,32 @@ menu:
       weight: 50
   company:
     - name: Automation
-      url: about
-      weight: 2
+      url: expertise/automation
+      weight: 40
     - name: Cloud Native
-      url: expertise
-      weight: 3
+      url: expertise/cloud-native
+      weight: 10
     - name: DevSecOps
-      url: service
-      weight: 4
+      url: expertise/devsecops
+      weight: 40
     - name: Infra-As-Code
-      url: blog
-      weight: 5
+      url: expertise/infra-as-code
+      weight: 40
     - name: Kubernetes
-      url: contact
-      weight: 6
+      url: expertise/kubernetes
+      weight: 20
     - name: Migration Cloud
-      url: contact
-      weight: 6
+      url: expertise/migration-cloud
+      weight: 40
     - name: Python
-      url: contact
-      weight: 6
+      url: expertise/python
+      weight: 30
     - name: Securité Cloud
-      url: contact
-      weight: 6
+      url: expertise/securite-cloud
+      weight: 40
     - name: Serverless
-      url: contact
-      weight: 6
+      url: expertise/serverless
+      weight: 40
   support:
     - name: Documentation DAT / DEX
       url: prestations

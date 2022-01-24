@@ -101,16 +101,16 @@ testimonial:
             laudantium. Corrupti ipsa perspiciatis commodi nesciunt rerum mollitia enim voluptate!"
   testimonial_item:
     # testimonial item loop
-    - name: "John Partho"
+    - name: "Marin P."
       image: "images/team/testimonial1.jpg"
-      location: "Newyork USA"
+      location: "Seekube"
       content: "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
             expedita facilis fuga repellat."
             
     # testimonial item loop
-    - name: "Julio Dimple"
+    - name: "Olivier F."
       image: "images/team/testimonial2.jpg"
-      location: "Newyork USA"
+      location: "Tabesto"
       content: "Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic. Qui ullam iste provident mollitia
             expedita facilis fuga repellat."
             

@@ -2,22 +2,22 @@
 title: "Infra-As-Code"
 category: "Own your infra"
 page_header_bg: "images/bg/section-bg5.jpg"
-image : "images/expertises/terraform.jpg"
+image : "images/expertises/iac.png"
 ---
 
 
-### TOCHANGE-Lorem Ipsum
+## Infra-As-Code
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse suscipit lacus non lorem dignissim auctor. Maecenas est nunc, blandit et sem sit amet, aliquet finibus lorem. Vivamus rutrum fringilla eros, sit amet rhoncus mauris dictum et. Pellentesque consectetur ultricies convallis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla metus risus, pretium non magna condimentum, iaculis ullamcorper est. Donec imperdiet sit amet urna sed malesuada. Donec feugiat lorem in tortor condimentum, vel porttitor urna convallis. Etiam ultricies vel elit eu vehicula.
+Le principe de l’infrastructure-as-code est, comme son nom l’indique, d’utiliser du code au sens du développement pour décrire l’infrastructure. Voici les principaux avantages que vous devez attendre de son adoption :
 
-Duis quis accumsan dolor, a congue urna. Maecenas bibendum velit id mi sagittis, non dignissim nibh congue. Duis aliquam dui nec congue facilisis. Praesent ac pharetra velit. Sed ullamcorper facilisis velit, nec finibus lacus facilisis eget. In id sapien sem. Phasellus commodo placerat imperdiet. Mauris vitae pulvinar lorem. Suspendisse posuere tristique tincidunt.
+- Automatisation
+- Reproductibilité des déploiements à la demande
+- Réduction drastique des tâches manuelles, sources d’erreur
+- Reproductibilité et testabilité des infrastructures
+- Gestion de la complexité exponentielle des architectures
+- Simplification de la mise à l’échelle
+- Suivi et traçabilité des modifications d’infrastructures via le versionning
 
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
-- **TOCHANGE-Titre:** TOCHANGE-Texte
+Il existe aussi quelques effets de bords bénéfiques comme la documentation auto-porteuse des infrastructures par exemple, et le rapprochement entre les Devs et les Ops. Enfin, l’infrastructure-as-code vous donne une plus grande attractivité sur le marché pour trouver les compétences qui vous permettront de maintenir et de faire évoluer vos infrastructures Cloud.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere metus quis dolor feugiat, sit amet blandit lorem egestas. Mauris condimentum id justo id pulvinar. In eu pretium nisi, vitae dignissim urna. Donec non ligula gravida lacus accumsan dapibus. Mauris tristique, urna non tincidunt pulvinar, dolor est congue lectus, id auctor diam quam vel enim. Phasellus ornare viverra elit, nec malesuada lectus venenatis at. Proin ultricies odio pellentesque urna lobortis commodo. Etiam ligula odio, ultricies nec massa in, suscipit tincidunt turpis. Vestibulum mollis facilisis mi pretium accumsan.
-
-Aenean sapien est, vehicula a sapien non, volutpat suscipit tortor. In hac habitasse platea dictumst. Suspendisse molestie nisl et ligula luctus efficitur. Pellentesque id lorem dui. Fusce et massa lorem. Quisque faucibus, augue vitae molestie sollicitudin, felis nunc eleifend est, ut elementum nunc leo et mauris. Maecenas pellentesque accumsan tristique. Mauris at nunc eget tellus viverra condimentum aliquam eu est. Quisque nulla tellus, tempor a libero nec, facilisis gravida augue.
+Par extension, pour les organisations ayant atteint une grande maturité, l’infra-as-code permet l’adoption du modèle GitOps, qui utilise Git pour lier les applications et leurs infrastructures au sein d’une même chaîne de CI/CD.

@@ -49,18 +49,18 @@ team:
   content: "Avec Square Factory, vous ne trouverez pas seulement une véritable expertise technique. Nous croyons fermement que les compétences interpersonnelles et l'amélioration continue sont aussi important que les compétences techniques."
   team_member:
   # https://generated.photos/faces/young-adult/joy
-  - name: "Kyan"
-    image: "images/team/generated_photos_5e6816ce6d3b380006d89fd1.jpg"
-    designation: "Whatever Guru"
-  - name: "VictorBlanc"
-    image: "images/team/generated_photos_5e68893c6d3b380006f22fa1.jpg"
+  - name: "Kyan B."
+    image: "images/team/kyan-b.jpg"
+    designation: "DevOps Guru"
+  - name: "Pierre L."
+    image: "images/team/pierre-l.jpg"
     designation: "Lead Architect"
-  - name: "Victoria"
-    image: "images/team/generated_photos_5e686dd56d3b380006ebf0ef.jpg"
+  - name: "Léo P."
+    image: "images/team/leo-p.jpg"
     designation: "Lead Dev"
-  - name: "Victor-san"
-    image: "images/team/generated_photos_5e684a466d3b380006e3e7ab.jpg"
-    designation: "R&D Artist"
+  - name: "Franck G."
+    image: "images/team/franck-g.jpg"
+    designation: "Head of Engineering"
     
 
 ################################ Clients ######################
