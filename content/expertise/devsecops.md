@@ -1,5 +1,6 @@
 ---
 title: DevSecOps
+image: images/expertises/kubernetes.png
 ---
 
 
