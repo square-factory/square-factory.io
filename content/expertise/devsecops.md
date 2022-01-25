@@ -2,7 +2,7 @@
 title: DevSecOps
 category: TOCHANGE-Sous titre
 page_header_bg: images/bg/section-bg5.jpg
-image: images/expertises/kubernetes.png
+image: images/expertises/devsecops.png
 ---
 
 
