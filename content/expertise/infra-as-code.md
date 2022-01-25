@@ -3,7 +3,6 @@ title: Infra-As-Code
 category: Own your infra
 page_header_bg: images/bg/section-bg5.jpg
 image: images/expertises/iac.png
-draft: true
 ---
 
 
