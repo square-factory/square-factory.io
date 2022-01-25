@@ -8,11 +8,9 @@ image: images/expertises/cloud-native.png
 
 ## Cloud Native
 
-Qu’ils ou elles aient un background de développeur·se ou d’ops tous les joueurs et les joueuses de Cloud Native Apps partagent en commun une expérience de la production et la compréhension des enjeux métier.
+Pour booster l’innovation et réduire le time to market, nous accompagnons nos clients dans le développement d’applications secure by design, scalables et robustes grâce à une expérience de la production et la compréhension des enjeux métier
 
-Pour booster l’innovation et réduire le time to market, ils et elles accompagnent nos clients dans le développement d’applications secure by design, scalables et robustes.
-
-Certifiés par [Google Cloud Platform](https://cloud.google.com/) ou [Amazon Web Services](https://aws.amazon.com/), nos joueurs sont formés à l’état de l’art des dernières technologies Cloud.
+Certifiés par [Google Cloud Platform](https://cloud.google.com/) ou [Amazon Web Services](https://aws.amazon.com/), nous sommes formés à l’état de l’art des dernières technologies Cloud.
 
 ### Multi-Cloud
 

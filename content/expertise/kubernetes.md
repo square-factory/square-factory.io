@@ -8,9 +8,9 @@ image: images/expertises/kubernetes.png
 
 ## Kubernetes
 
-Depuis 5 ans dev, ops et devops, tous nos joueurs et joueuses ont largement testé et expérimenté les containers, qui sont aujourd’hui des outils incontournables de la chaîne de déploiement applicative.
+Depuis plusieurs années, nous avons largement testé et expérimenté les containers, qui sont aujourd’hui des outils incontournables de la chaîne de déploiement applicative.
 
-Au-delà de l’expérimentation, ils et elles se sont attaché·e·s à établir et à affiner les best practices pour les intégrer dans la chaîne CI/CD, les déployer en production, et passer à l’échelle.
+Au-delà de l’expérimentation, nous nous sommes attachés à établir et à affiner les best practices pour les intégrer dans la chaîne CI/CD, les déployer en production, et passer à l’échelle.
 
 ### Playground
 
