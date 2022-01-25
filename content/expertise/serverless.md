@@ -3,7 +3,6 @@ title: Serverless
 category: Focus on code
 page_header_bg: images/bg/section-code.jpg
 image: images/expertises/serverless.png
-draft: true
 ---
 
 
