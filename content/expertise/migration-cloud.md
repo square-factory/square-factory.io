@@ -3,6 +3,7 @@ title: "Migration Cloud"
 category: "TOCHANGE-Sous titre"
 page_header_bg: "images/bg/section-bg5.jpg"
 image : "images/expertises/migration-cloud.png"
+draft: true
 ---
 
 

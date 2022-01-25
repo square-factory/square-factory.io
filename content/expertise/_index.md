@@ -1,7 +1,7 @@
 ---
 title: Notre expertise
 draft: false
-description: This is meta description
+description: Notre expertise
 page_header_bg: images/bg/section-bg7.jpg
 ---
 

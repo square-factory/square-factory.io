@@ -3,6 +3,7 @@ title: "Automatisation"
 category: "Control & Monitor"
 page_header_bg: "images/bg/section-cogs.jpg"
 image : "images/expertises/automation.png"
+draft: true
 ---
 
 
