@@ -1,9 +1,8 @@
 ---
-title: "Kubernetes"
-category: "Power-up your containers"
-page_header_bg: "images/bg/section-containers.jpg"
-image : "images/expertises/kubernetes.png"
-draft: true
+title: Kubernetes
+category: Power-up your containers
+page_header_bg: images/bg/section-containers.jpg
+image: images/expertises/kubernetes.png
 ---
 
 
