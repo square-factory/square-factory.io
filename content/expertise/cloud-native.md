@@ -1,9 +1,8 @@
 ---
-title: "Cloud Native"
-category: "Elasticity & Cost effective"
-page_header_bg: "images/bg/section-clouds.jpg"
-image : "images/expertises/cloud-native.png"
-draft: true
+title: Cloud Native
+category: Elasticity & Cost effective
+page_header_bg: images/bg/section-clouds.jpg
+image: images/expertises/cloud-native.png
 ---
 
 
