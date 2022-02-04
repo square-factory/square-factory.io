@@ -50,16 +50,16 @@ team:
   team_member:
   # https://generated.photos/faces/young-adult/joy
   - name: "Kyan B."
-    image: "images/team/kyan-b.jpg"
+    image: "images/team/avatar.png"
     designation: "DevOps Guru"
   - name: "Pierre L."
-    image: "images/team/pierre-l.jpg"
+    image: "images/team/avatar.png"
     designation: "Lead Architect"
   - name: "Léo P."
-    image: "images/team/leo-p.jpg"
+    image: "images/team/avatar.png"
     designation: "Lead Dev"
   - name: "Franck G."
-    image: "images/team/franck-g.jpg"
+    image: "images/team/avatar.png"
     designation: "Head of Engineering"
     
 

@@ -1,7 +1,7 @@
 ---
 title: Infra-As-Code
 category: Own your infra
-page_header_bg: images/bg/section-bg5.jpg
+page_header_bg: images/bg/section-code.jpg
 image: images/expertises/iac.png
 ---
 
