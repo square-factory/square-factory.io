@@ -53,13 +53,13 @@ team:
     image: "images/team/avatar.png"
     designation: "DevOps Guru"
   - name: "Pierre L."
-    image: "images/team/avatar.png"
+    image: "images/team/avatar-1.png"
     designation: "Lead Architect"
   - name: "Léo P."
-    image: "images/team/avatar.png"
+    image: "images/team/avatar-2.png"
     designation: "Lead Dev"
   - name: "Franck G."
-    image: "images/team/avatar.png"
+    image: "images/team/avatar-3.png"
     designation: "Head of Engineering"
     
 
