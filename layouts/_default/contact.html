@@ -15,7 +15,7 @@
           <div class="col-lg-8">
             <form id="contact-form" class="contact__form" method="post" action="{{ site.Params.contact.formAction }}" data-netlify="true">
               <div class="form-group">
-                <select class="form-control" id="exampleFormControlSelect1">
+                <select name="reason" class="form-control" id="exampleFormControlSelect1">
                   <option selected disabled>Vous nous contactez pour ...</option>
                   {{ range .contact_topics }}
                   <option value="{{ . | urlize}}">{{ . }}</option>
