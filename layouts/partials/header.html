@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg py-4 navigation header-padding{{ if not .IsHome }} nav-text-white{{ end }}" id="navbar">
+<nav class="navbar navbar-expand-lg py-4 navigation header-padding {{ if .IsHome }} navbar-white {{ else }} nav-text-white {{ end }}" id="navbar">
   <div class="container-fluid">
     <a class="navbar-brand" href="{{ site.BaseURL }}">
       {{ if .IsHome }}
