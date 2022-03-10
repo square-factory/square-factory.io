@@ -30,17 +30,17 @@ feature:
   title: "Nous sommes à votre disposition"
   content: "Veritatis earum aliquid doloribus molestias, eveniet molestiae aperiam ratione. Facilis velit voluptatibus impedit eligendi delectus illo earum voluptatum"
   feature_item:
-    - icon: "fad fa-gavel"
-      title: "TOCHANGE-AVANTAGE1"
-      content: "Veritatis earum aliquid doloribus molestias"
-    - icon: "fad fa-balance-scale"
-      title: "TOCHANGE-AVANTAGE2"
-      content: "Veritatis earum aliquid doloribus molestias"
-    - icon: "fad fa-headset"
-      title: "TOCHANGE-AVANTAGE3"
-      content: "Veritatis earum aliquid doloribus molestias"
-    - icon: "fad fa-archive"
-      title: "TOCHANGE-AVANTAGE4"
+    - icon: fad fa-cloud
+      title: Public Cloud
+      content: Quelque soit votre Cloud Provider, nous apportons notre expertise pour vos projets
+    - icon: fad fa-server
+      title: On-Premises
+      content: Les infrastructures on-premises blabla
+    - icon: fad fa-chart-line
+      title: Business Value
+      content: Nous comprenons les contraintes métiers, et le TimeToMarket est une de nos KPI préférée
+    - icon: fad fa-funnel-dollar
+      title: FinOps
       content: "Veritatis earum aliquid doloribus molestias"
 
 ########################### Call to action #####################################
