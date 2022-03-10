@@ -28,9 +28,9 @@
 .falogo-dark {
 	color: white !important;
 }
-// #navbar {
-// 	background-color: lightgray;
-// }
+#navbar {
+	background-color: white;
+}
 .portflio-item .overlay-item i {
 	width: 74px;
 	height: 74px;
@@ -74,4 +74,9 @@
 		$secondary-color 30%,
 		transparent 30%
 	);
+}
+.nav-link:hover {
+	text-decoration-line: underline;
+	text-decoration-style: dotted;
+	text-decoration-thickness: 2px;
 }
