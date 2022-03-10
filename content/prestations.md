@@ -66,7 +66,7 @@ technology:
     - CircleCI
     - Jenkins
     - Powershell
-    - Redis
+    - Kafka
     - NGINX
     - et plus...
       

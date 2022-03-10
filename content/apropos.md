@@ -49,7 +49,7 @@ team:
   content: "Avec Square Factory, vous ne trouverez pas seulement une véritable expertise technique. Nous croyons fermement que les compétences interpersonnelles et l'amélioration continue sont aussi important que les compétences techniques."
   team_member:
   # https://generated.photos/faces/young-adult/joy
-  - name: "Kyan B."
+  - name: "Kevin K."
     image: "images/team/avatar.png"
     designation: "DevOps Guru"
   - name: "Pierre L."

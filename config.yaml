@@ -37,7 +37,7 @@ params:
   footer_content: >-
     Notre *leitmotiv* est de mettre notre expertise reconnue à votre service pour vous accompagner dans le but de mener à bien vos différents projets. **Votre succès sera notre réussite !**
   copyright: >-
-    Site réalisé par [Square-Factory](https://square-factory.io/) &copy; 2022
+    &copy; 2022 Site réalisé par [Square-Factory](https://square-factory.io/), une marque de [Simonides](https://smnds.io/).
   preloader:
     enable: true
     preloader: images/logo.png
