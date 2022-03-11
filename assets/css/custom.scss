@@ -86,3 +86,11 @@
 .icon-block i {
 	background: rgba(24, 46, 170, 0.08);
 }
+@include desktop{
+	.fatitle {
+	  color: $black !important;
+	}
+	.award-img>img {
+		max-height: 150px;
+	}
+}
